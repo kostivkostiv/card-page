@@ -22,4 +22,4 @@ pnpm run dev
 ```
 
 After running the above commands, the application should be available at:  
-[http://localhost:3000](http://localhost:5173)
+[http://localhost:5173](http://localhost:5173)
