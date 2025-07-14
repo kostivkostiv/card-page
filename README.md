@@ -3,6 +3,8 @@
 Make sure you have [pnpm](https://pnpm.io/) installed.  
 If you don’t have it yet, you can install it globally with the following command:
 
+DEMO[Click](https://card-page-6uca.vercel.app/)
+
 ```bash
 npm install -g pnpm
 ```
